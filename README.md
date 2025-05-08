@@ -37,4 +37,4 @@
 
 - Email: pallavigupta842@gmail.com
 - LinkedIn: https://linkedin.com/in/pallgupta
-- Website/Portfolio: https://pall-gupta.github.io/pallgupta.com/
+- Website/Portfolio: https://pall-gupta.github.io/
